@@ -1,0 +1,12 @@
+D:\IP LEONES\SEMESTRE2\PROGRAMACION 1\CLASE 9\TRABAJO SQL BOLETAS\Tienda de Abarrotes - Francisco Armijo\bin\Debug\Tienda de Abarrotes - Francisco Armijo.exe.config
+D:\IP LEONES\SEMESTRE2\PROGRAMACION 1\CLASE 9\TRABAJO SQL BOLETAS\Tienda de Abarrotes - Francisco Armijo\bin\Debug\Tienda de Abarrotes - Francisco Armijo.exe
+D:\IP LEONES\SEMESTRE2\PROGRAMACION 1\CLASE 9\TRABAJO SQL BOLETAS\Tienda de Abarrotes - Francisco Armijo\bin\Debug\Tienda de Abarrotes - Francisco Armijo.pdb
+D:\IP LEONES\SEMESTRE2\PROGRAMACION 1\CLASE 9\TRABAJO SQL BOLETAS\Tienda de Abarrotes - Francisco Armijo\obj\Debug\Tienda de Abarrotes - Francisco Armijo.csprojAssemblyReference.cache
+D:\IP LEONES\SEMESTRE2\PROGRAMACION 1\CLASE 9\TRABAJO SQL BOLETAS\Tienda de Abarrotes - Francisco Armijo\obj\Debug\Tienda_de_Abarrotes___Francisco_Armijo.Form1.resources
+D:\IP LEONES\SEMESTRE2\PROGRAMACION 1\CLASE 9\TRABAJO SQL BOLETAS\Tienda de Abarrotes - Francisco Armijo\obj\Debug\Tienda_de_Abarrotes___Francisco_Armijo.Properties.Resources.resources
+D:\IP LEONES\SEMESTRE2\PROGRAMACION 1\CLASE 9\TRABAJO SQL BOLETAS\Tienda de Abarrotes - Francisco Armijo\obj\Debug\Tienda de Abarrotes - Francisco Armijo.csproj.GenerateResource.cache
+D:\IP LEONES\SEMESTRE2\PROGRAMACION 1\CLASE 9\TRABAJO SQL BOLETAS\Tienda de Abarrotes - Francisco Armijo\obj\Debug\Tienda de Abarrotes - Francisco Armijo.exe
+D:\IP LEONES\SEMESTRE2\PROGRAMACION 1\CLASE 9\TRABAJO SQL BOLETAS\Tienda de Abarrotes - Francisco Armijo\obj\Debug\Tienda de Abarrotes - Francisco Armijo.pdb
+D:\IP LEONES\SEMESTRE2\PROGRAMACION 1\CLASE 9\TRABAJO SQL BOLETAS\Tienda de Abarrotes - Francisco Armijo\obj\Debug\Tienda_de_Abarrotes___Francisco_Armijo.Form2.resources
+D:\IP LEONES\SEMESTRE2\PROGRAMACION 1\CLASE 9\TRABAJO SQL BOLETAS\Tienda de Abarrotes - Francisco Armijo\obj\Debug\Tienda_de_Abarrotes___Francisco_Armijo.Form3.resources
+D:\IP LEONES\SEMESTRE2\PROGRAMACION 1\CLASE 9\TRABAJO SQL BOLETAS\Tienda de Abarrotes - Francisco Armijo\obj\Debug\Tienda_de_Abarrotes___Francisco_Armijo.venta.resources
